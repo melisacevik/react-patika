@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+#inputArea{
+  background-color: salmon;
+  padding: 10px;
+  margin-top: 50px;
+}
+
+.input-group {
+  background-color: white; 
+}
+
+.dropdown-menu {
+  background-color: white; 
+}
+
+#todosArea{
+  background-color: salmon;
+  padding: 10px;
+}
